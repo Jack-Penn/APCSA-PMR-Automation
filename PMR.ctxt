@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PMR
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PMR\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=question\ defaultAnswer
+comment2.target=java.lang.String\ ask(java.lang.String,\ java.lang.String)
+comment3.params=question
+comment3.target=java.lang.String\ ask(java.lang.String)
+comment4.params=question\ defaultAnswer
+comment4.target=boolean\ askYN(java.lang.String,\ boolean)
+comment5.params=str\ indentation\ lineCharacters
+comment5.target=java.lang.String\ wrapWordString(java.lang.String,\ java.lang.String,\ int)
+comment6.params=num
+comment6.target=java.lang.String\ toTwoDigitNum(java.lang.String)
+comment7.params=searchDir\ extension
+comment7.target=java.io.File[]\ findFilesOfExtension(java.io.File,\ java.lang.String)
+comment8.params=path
+comment8.target=java.lang.String\ getLocalPath(java.lang.String)
+comment9.params=file
+comment9.target=java.lang.String\ getLocalPath(java.io.File)
+numComments=10
