@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Formatter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Formatter\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=numString
+comment1.target=java.lang.String\ twoDigitNumString(java.lang.String)
+comment2.params=num
+comment2.target=java.lang.String\ twoDigitNumString(int)
+comment3.params=str
+comment3.target=boolean\ isLettersString(java.lang.String)
+comment4.params=letter
+comment4.target=int\ letterToNum(java.lang.String)
+comment5.params=num
+comment5.target=char\ numToLetter(int)
+comment6.params=str
+comment6.target=java.lang.String\ stringToWhitespace(java.lang.String)
+comment7.params=str\ indentation\ lineCharacters
+comment7.target=java.lang.String\ wrapWordString(java.lang.String,\ java.lang.String,\ int)
+comment8.params=start\ str\ lineCharacters
+comment8.target=java.lang.String\ useStartAsWrapIndent(java.lang.String,\ java.lang.String,\ int)
+numComments=9

@@ -132,7 +132,7 @@ public class PMR_V2
             File latestModFolder = new File("");
             for(String fileName :  aPCSDir.list())
             {
-                if(fileName.substring(0, 6).equals("Module"))
+                if(fileName.substring(0, 9).equals("Module 06"))
                     latestModFolder = getSubDir(aPCSDir, fileName);
             }
             String latestModNumString = latestModFolder.getName().substring(7);
