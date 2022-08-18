@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Program
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Program\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dir\ project
+comment1.target=Program(java.io.File,\ Project)
+comment2.params=
+comment2.target=void\ createIntegrity()
+comment3.params=
+comment3.target=void\ retrieveDocInfo()
+comment4.params=labelString\ str
+comment4.target=void\ setInfo(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ retrieveDiagramInfo()
+numComments=6

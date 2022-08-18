@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Project
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Project\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Project()
+comment2.params=dir\ mod
+comment2.target=Project(java.io.File,\ Module)
+comment3.params=dir\ mod\ isAssignment
+comment3.target=Project(java.io.File,\ Module,\ boolean)
+comment4.params=
+comment4.target=void\ open()
+comment5.params=
+comment5.target=Program[]\ listPrograms()
+numComments=6
